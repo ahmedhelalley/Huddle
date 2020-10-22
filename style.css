@@ -1,0 +1,22 @@
+.sth{
+    padding: 10px;
+    border-radius: 50px;
+    background-color: white;
+    border-color: hsl(322, 100%, 66%);
+    border-width: 3px;
+    box-shadow: yellow;
+    color: hsl(322, 100%, 66%);
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.custom{
+    border-radius: 50px;
+    background-color: hsl(322, 100%, 66%);
+    padding: 20px;
+    color: white;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+body footer img{
+    width: 100%;
+}
